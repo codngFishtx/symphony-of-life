@@ -1,7 +1,7 @@
 # Symphony of Life - An Audioreactive Table
 ##### By Behive - [Visit our website!](https://symphonyoflife-groep2.webflow.io/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y6DZfVRRVj0?si=mDFCB4KFxDZrCeNX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Overview video of Symphony of Life](https://img.youtube.com/vi/y6DZfVRRVj0/0.jpg)](https://www.youtube.com/watch?v=y6DZfVRRVj0)
 
 Our interactive art installation, ‘Symphony of Life’, revolves around the choices we make in life and the lasting impact they have. We challenge visitors to experience this by moving physical blocks with markers on a tabletop, taking their life - literally - in their own hands. Each movement translates to a change in the audiovisual experience.
 This concept reflects the idea that by making choices, you have control over your life and your life takes direction. Through our choices, we avoid going through life passively and let no opportunity pass us by in life.
@@ -278,7 +278,7 @@ import numpy as np
 import os
 import re
 import time
-from enum import IntEnum, StrEnum # Enums
+from enum import IntEnum, StrEnum
 ```
 First, we import the necessary libraries and objects we are going to need.
 - **cv2**: opencv library that contains methods for ArUco marker generation and detection.
@@ -579,7 +579,7 @@ Earlier in this document, you designed a unique icon for each totem that visuall
 
 For our design, we used free icons from [the Noun Project](https://thenounproject.com), a website where designers can (buy and) download icons for use in their projects. Four icons were selected for this: [career](https://thenounproject.com/icon/career-7316785/), [love](https://thenounproject.com/icon/love-4846445/), [self-development](https://thenounproject.com/icon/continuous-learning-7486178/) and [adventure](https://thenounproject.com/icon/compass-7473834/). Two other icons were not used.
 The icons have a gradient fill colour of one colour along with a darker shade of the same colour. It is in a pattern with an additional fill colour (black) and a line colour with the same gradient fill colour as the icon to make it clear that it belongs together.
-![alt text](fotos_instructables/stickers/stickers.jpg)
+![Preview of print-ready stickers](instructables/pictures/stickers.jpg)
 
 Get a print-ready copy here: [icons.pdf](project/icons_totems_small_PRINT.pdf)
 
