@@ -570,6 +570,7 @@ Of course, if the dimension of the marker is known beforehand, or if you want to
 </blockquote>
 
 You can now go ahead and generate a few different markers and test out which ones work best. To print inverted markers, it is advisable to add an extra border around the marker, so the white of the internal border does not blend in with the page:
+
 ![Some markers with black border on a white page](instructables/pictures/markers_border.jpg)
 
 ### Step 5: Decorating
